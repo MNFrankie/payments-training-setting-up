@@ -1,4 +1,13 @@
-<form class="form-horizontal">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Online Purchase</title>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+<body>
+  
+  <form class="form-horizontal">
 <fieldset>
 
 <!-- Form Name -->
@@ -24,3 +33,7 @@
 
 </fieldset>
 </form>
+
+
+</body>
+</html>
